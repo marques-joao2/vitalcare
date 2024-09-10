@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: vitalcare
+  profiles:
+    active: dev
