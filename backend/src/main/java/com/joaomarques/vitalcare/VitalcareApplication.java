@@ -1,4 +1,4 @@
-package com.fatec.vitalcare;
+package com.joaomarques.vitalcare;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
